@@ -46,6 +46,8 @@ def convert(seconds):
         else:
             return "%d year(s) %d day(s) %d hours(s) %02d minute(s) and %02d second(s)" % (year, day, hour, min, sec)
 
+# get_filters takes user input to use throughout program
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
