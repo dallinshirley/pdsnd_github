@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+May 8th, 2020
 
 ### Project Title
-Replace the Project Title
+Git Hub Project
 
 ### Description
-Describe what your project is about and what it does
+This project is for learning how to use git hub and manage version control
 
 ### Files used
-Include the files used
+Bikeshare_FINAL.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+None so far
