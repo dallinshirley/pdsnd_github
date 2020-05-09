@@ -79,6 +79,7 @@ def get_filters():
 
     return city, month, day
 
+# this takes the inputs and filters the data so it can be analyszed correctly
 
 def load_data(city, month, day):
 
