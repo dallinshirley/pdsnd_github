@@ -14,6 +14,8 @@ import datetime as dt
 from datetime import timedelta
 from statistics import mode, StatisticsError
 
+# this is a dictionary for the city data files
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
